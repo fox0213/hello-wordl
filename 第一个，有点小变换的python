@@ -1,6 +1,6 @@
 age = 18
 if age >= 18:
-    print("如果age大于或等于18执行")
+          print("如果age大于或等于18执行")
     print("执行")
     print("执行")
 if age < 18:
